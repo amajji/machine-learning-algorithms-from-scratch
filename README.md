@@ -5,11 +5,12 @@ Data scientist | [Anass MAJJI](https://www.linkedin.com/in/anass-majji-729773157
 ## :monocle_face: Description
 - This project contains an implementation of many Machine Learning algorithms from scratch. </br>
 - The algorithms that were implemented include the following:
-	- Linear regression .
-		- Lasso regression 
+	- Linear regression
+		- Lasso regression
 		- Ridge regression
 	- Logostic regression
 	- SVM 
+	- ACP
  
 
 ## :rocket: Repository Structure
