@@ -19,10 +19,6 @@ The repository contains the following files & directories:
  
 
 
-![](CNN.jpeg)
-
-
-
 
 
 
