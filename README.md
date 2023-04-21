@@ -11,6 +11,8 @@ Data scientist | [Anass MAJJI](https://www.linkedin.com/in/anass-majji-729773157
 	- Logostic regression
 	- SVM 
 	- ACP
+
+	
  
 
 ## :rocket: Repository Structure
